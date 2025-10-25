@@ -3,3 +3,7 @@ AIMBOT --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Land
 
 
 PRISON LIFE GET GUN --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/GET%20GUN%20PRISON%20LIFE.lua"))()
+
+
+
+LOW GRAPHICS --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/LOW%20GRAPHICS.lua"))()
