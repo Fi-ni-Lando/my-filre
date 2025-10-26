@@ -7,3 +7,7 @@ PRISON LIFE GET GUN --  loadstring(game:HttpGet("https://raw.githubusercontent.c
 
 
 LOW GRAPHICS --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/LOW%20GRAPHICS.lua"))()
+
+
+
+RAINBOW GUN --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/RAINBOW%20ALL%20GUN.lua"))()
