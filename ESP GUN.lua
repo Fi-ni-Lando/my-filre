@@ -29,7 +29,7 @@ local function createESPForGun(tool)
     nameLabel.TextColor3 = nameColor
     nameLabel.TextStrokeColor3 = Color3.new(0,0,0)
     nameLabel.TextStrokeTransparency = 0.3
-    nameLabel.TextScaled = true
+    nameLabel.TextScaled = 10
     nameLabel.Font = Enum.Font.SourceSansBold
     nameLabel.Parent = billboard
 
@@ -102,4 +102,5 @@ RunService.RenderStepped:Connect(function()
     if enabled then
         refreshESPs()
     end
+
 end)
