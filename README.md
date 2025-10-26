@@ -14,3 +14,6 @@ FLY UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-
 
 
 ESP UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/ESP%20PLAYER.lua"))()
+
+
+ESP GUN UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/ESP%20GUN.lua"))()
