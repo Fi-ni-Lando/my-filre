@@ -11,3 +11,7 @@ LOW GRAPHICS --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-n
 
 
 RAINBOW GUN ONLY WORK ON PRISON LIFE --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/RAINBOW%20ALL%20GUN.lua"))()
+
+
+
+FLY UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/FLY%20UNIVERSAL.lua"))()
