@@ -38,7 +38,7 @@ local function createESPForGun(tool)
     line.Thickness = 1
     line.Color3 = lineColor
     line.AlwaysOnTop = true
-    line.ZIndex = 10
+    line.ZIndex = 5
     line.Parent = workspace
 
     return {billboard, line, handle}
@@ -104,3 +104,4 @@ RunService.RenderStepped:Connect(function()
     end
 
 end)
+
