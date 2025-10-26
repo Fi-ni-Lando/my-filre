@@ -17,3 +17,6 @@ ESP UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-
 
 
 ESP GUN UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/ESP%20GUN.lua"))()
+
+
+ESP INVENTORY --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/ESP%20INVENTORY.lua"))()
