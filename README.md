@@ -20,3 +20,6 @@ ESP GUN UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com
 
 
 ESP INVENTORY --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/ESP%20INVENTORY.lua"))()
+
+
+HITBOX EXPANDER UNIVERSAL --  loadstring(game:HttpGet("https://raw.githubusercontent.com/Fi-ni-Lando/my-filre/refs/heads/main/HITBOX%20%20EXPANDER.lua"))()
